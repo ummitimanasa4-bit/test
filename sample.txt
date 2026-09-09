@@ -1,4 +1,4 @@
 a=12
 if a>0:
   print ("a is positive")
-
+  print ("a is negative")
