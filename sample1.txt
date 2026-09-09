@@ -1,3 +1,4 @@
 a=12
 if a % 2 !=0:
     print(" a is odd")
+    print(" a is even")
