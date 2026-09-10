@@ -1,5 +1,3 @@
 a=12
 if a>0:
   print ("a is positive")
-eliif a<0:
-  print ("a is negative")
