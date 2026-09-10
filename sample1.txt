@@ -1,3 +1,5 @@
 a=12
 if a % 2 !=0:
     print(" a is odd")
+elif a % 2 ==0:
+    print("a is even")
